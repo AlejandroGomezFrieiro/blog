@@ -4,6 +4,7 @@ draft: false
 tags:
     - quartz
     - nix
+    - blog
 ---
 
 I have been wanting to have a personal blog for a while now. It has been quite difficult to keep up with my writing, both technical and personal, and a personal blog sounded like the ideal way to go about it. In particular considering the current state of the Internet.
