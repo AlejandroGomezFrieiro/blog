@@ -11,4 +11,4 @@ This site is a [[digital garden]] for my writing.
 
 # 📑 Blog
 
-I sometimes write a [[blog_homepage|blog]] regaring personal thoughts and technology.
+I sometimes write a [[blog_homepage]] regaring personal thoughts and technology.

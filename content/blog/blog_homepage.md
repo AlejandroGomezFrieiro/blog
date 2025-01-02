@@ -6,5 +6,5 @@ tags:
 
 # 📑 Blog
 
-- [[Nix, Python and Manim]]
+- [[nix_python_manim]]
 - [[test]]
